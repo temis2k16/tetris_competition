@@ -1,0 +1,25 @@
+2020-12-04 13:17:36,512 INFO:connecting... ws://codebattle2020.westeurope.cloudapp.azure.com/codenjoy-contest/ws?user=ijb8d0ticthn42a0cwn3&code=1050572501494885536&gameName=tetris
+2020-12-04 13:17:36,667 INFO:Connection established: <websocket._app.WebSocketApp object at 0x10b741670>
+2020-12-04 13:17:36,952 INFO:Sending: left,down
+2020-12-04 13:17:37,974 INFO:Sending: left,down
+2020-12-04 13:17:38,997 INFO:Sending: left,down
+2020-12-04 13:17:39,920 INFO:Sending: left,down
+2020-12-04 13:17:40,888 INFO:Sending: left,down
+2020-12-04 13:17:41,968 INFO:Sending: left,down
+2020-12-04 13:17:42,899 INFO:Sending: left,down
+2020-12-04 13:17:43,924 INFO:Sending: left,down
+2020-12-04 13:17:44,941 INFO:Sending: left,down
+2020-12-04 13:17:45,962 INFO:Sending: left,down
+2020-12-04 13:17:46,985 INFO:Sending: left,down
+2020-12-04 13:17:47,907 INFO:Sending: left,down
+2020-12-04 13:17:48,896 INFO:Sending: left,down
+2020-12-04 13:17:49,955 INFO:Sending: left,down
+2020-12-04 13:17:50,978 INFO:Sending: left,down
+2020-12-04 13:17:51,901 INFO:Sending: left,down
+2020-12-04 13:17:52,924 INFO:Sending: left,down
+2020-12-04 13:17:53,948 INFO:Sending: left,down
+2020-12-04 13:17:54,972 INFO:Sending: left,down
+2020-12-04 13:17:55,997 INFO:Sending: left,down
+2020-12-04 13:17:56,919 INFO:Sending: left,down
+2020-12-04 13:17:57,458 ERROR:
+2020-12-04 13:17:57,500 INFO:### disconnected ###
